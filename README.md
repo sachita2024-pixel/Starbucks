@@ -23,3 +23,28 @@
 *   **Плавные CSS-анимации**:
     *   Эффекты при наведении на кнопки и карточки (изменение цвета, масштабирование, сдвиг).
 *   **Стилизация** в фирменных цветах Starbucks (зеленый, белый, черный).
+
+
+# Starbucks — Educational Project ☕
+
+A single-page website for a Starbucks coffee shop, created to practice layout skills.
+
+## 🎯 About the Project
+
+This is an **educational project** aimed at practicing the creation of complex grids and smooth CSS animations. The design is inspired by the official Starbucks website.
+
+⚠️ **Important:** Responsive layout (for mobile devices) was **not implemented** in this project. The project was created to practice specific skills.
+
+## 🛠 Technologies
+
+*   **HTML5** — semantic markup.
+*   **CSS3** — **CSS Grid** (for building complex grids), **CSS animations** (smooth hover and appearance effects), Flexbox (for alignment inside blocks), CSS variables.
+*   **BEM** — class naming convention.
+*   **Figma** — working with the design layout.
+
+## ✨ Features
+
+*   **Complex grid** using CSS Grid: blocks of different widths and heights that correctly form a single composition.
+*   **Smooth CSS animations**:
+    *   Hover effects on buttons and cards (color change, scaling, shifting).
+*   **Styling** in the brand colors of Starbucks (green, white, black).
